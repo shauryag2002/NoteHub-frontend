@@ -1,0 +1,14 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+#imae {
+  height: 500px;
+}
+input {
+  width: 615px;
+  margin: 30px;
+}
+#preview {
+  margin: 30px;
+}
